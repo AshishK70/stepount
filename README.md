@@ -4,4 +4,4 @@ and in this app I learnt about the useState hooks
 
 and the link to check is provided below
 
-[Check Out](https://ashishk70.github.io/stepount/)
+[Check Out](https://ashishk70.github.io/stepount/){:target="_blank" rel="noopener"}
