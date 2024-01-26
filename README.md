@@ -4,4 +4,4 @@ and in this app I learnt about the useState hooks
 
 and the link to check is provided below
 
-<a target="_blank">https://ashishk70.github.io/stepount/<a>
+[Check Out] (https://ashishk70.github.io/stepount/)
